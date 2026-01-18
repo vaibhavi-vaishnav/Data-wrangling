@@ -1,0 +1,9 @@
+Column,Data_Type,Description
+InvoiceNo,object,Add description here
+StockCode,object,Add description here
+Description,object,Add description here
+Quantity,int64,Add description here
+InvoiceDate,object,Add description here
+UnitPrice,float64,Add description here
+CustomerID,float64,Add description here
+Country,object,Add description here
